@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+/node_modules
+/package-lock.json
+/key.txt
+/grokey.txt
+/gro.py
